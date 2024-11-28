@@ -1,3 +1,4 @@
+### Ceci n'est qu'un exemple de création de courbes precision-recall: On peut s'en inspirer ...
 import matplotlib.pyplot as plt
 import numpy as np
 import matplotlib
